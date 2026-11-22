@@ -1,0 +1,7 @@
+# browser sessions = logged-in account cookies. NEVER commit.
+.profile/
+.chrome-profile/
+results/
+__pycache__/
+*.pyc
+.venv/

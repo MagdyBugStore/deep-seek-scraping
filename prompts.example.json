@@ -1,0 +1,18 @@
+{
+  "chats": [
+    {
+      "name": "python-chat",
+      "prompts": ["What is a Python generator?", "Show an example."]
+    },
+    {
+      "name": "js-chat",
+      "deepthink": true,
+      "prompts": ["Explain closures in JS.", "Give 2 pitfalls."]
+    },
+    {
+      "name": "arabic-chat",
+      "search": false,
+      "prompts": ["اشرح الفرق بين TCP و UDP", "اديني مثال عملي"]
+    }
+  ]
+}
